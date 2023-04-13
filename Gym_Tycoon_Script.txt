@@ -1,0 +1,2 @@
+--gym tycoon script! 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nalaiko40/silly-hub-gym-tycoon-/main/gt.lua"))()
